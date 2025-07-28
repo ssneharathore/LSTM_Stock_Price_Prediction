@@ -7,7 +7,7 @@ This deep learning project leverages **LSTM (Long Short-Term Memory)** models co
 
 ## 🚀 Demo
 
-👉 [Run the Web App on Streamlit](https://your-username-your-app-name.streamlit.app)
+👉 [Run the Web App on Streamlit](https://lstmstockpriceprediction-snehaaa.streamlit.app/)
 
 ---
 
